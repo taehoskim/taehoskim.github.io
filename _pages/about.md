@@ -3,10 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-  Assistant Professor
-  <a href='https://security.swu.ac.kr/'>Information Security Division</a>
-  <a href='https://www.swu.ac.kr/business.html'>College of Interdisciplinary Studies for Emerging Industries</a>
-  <a href='https://swu.ac.kr/'>Seoul Women's University</a>
+  <p> Assistant Professor </p>
+  <p> <a href='https://security.swu.ac.kr/'>Information Security Division</a> </p>
+  <p> <a href='https://swu.ac.kr/www/futured_1.html'>College of Interdisciplinary Studies for Emerging Industries</a> </p>
+  <p> <a href='https://swu.ac.kr/'>Seoul Women's University</a> </p>
 
 #Address. Contacts. Moto. Etc.
 
