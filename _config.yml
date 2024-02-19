@@ -166,6 +166,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
+  enabled: false # added by tkim (240220) 
   news:
     defaults:
       layout: post
